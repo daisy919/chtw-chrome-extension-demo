@@ -1,0 +1,20 @@
+.cn-term-highlight {
+  background-color: rgba(255, 192, 203, 0.3);
+  cursor: help;
+}
+
+.custom-term-highlight {
+  background-color: rgba(221, 160, 221, 0.3);  /* 淡粉紫色 */
+  cursor: help;
+}
+
+.term-tooltip {
+  position: absolute;
+  background: white;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 14px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  z-index: 10000;
+}

@@ -1,0 +1,10 @@
+project-root/
+├── manifest.json
+├── background.js
+├── content.js
+├── popup.html
+├── popup.js
+├── styles/
+│   └── content.css
+└── icons/
+    └── icon128.png
