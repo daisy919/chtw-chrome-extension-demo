@@ -3,6 +3,7 @@
   "name": "台灣慣用語檢查小精靈",
   "version": "1.0",
   "description": "自動標示頁面上的中國慣用語為台灣慣用語",
+  "privacy_policy": "https://daisy919.github.io/chtw-chrome-extension-demo/privacy",
   "permissions": [
     "storage",
     "scripting",
